@@ -1,5 +1,12 @@
-## Hi there 👋
+👋 Olá! Eu sou Felipe Andrade.
 
+
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Aprendendo Python 
+- 🔐 Explorando Cibersegurança
+- 📚 Cursando Gestão de Projetos em TI
+- 🚀 Buscando evoluir na área da tecnologia
+- 📫 Contato: felipejesusandrade362@gmail.com
 <!--
 **felipe-infosec/felipe-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

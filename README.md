@@ -1,23 +1,23 @@
-                                                     👋 Olá! Eu sou Felipe Andrade.
+# 👋 Olá! Eu sou **Felipe Andrade**.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+em+formação;Aprendendo+Python;Interessado+em+Cibersegurança;Evoluindo+na+tecnologia&center=true&width=500&height=45)](https://git.io/typing-svg)
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
+## 🚀 Sobre mim: 
+
+- 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 💻 Aprendendo Python 
-- 🔐 Explorando Cibersegurança
+- 🔐 Explorando Cybersecurity
 - 📚 Cursando Gestão de Projetos em TI
-- 🚀 Buscando evoluir na área da tecnologia
-- 📫 Contato: felipejesusandrade362@gmail.com
-<!--
-**felipe-infosec/felipe-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## 📊 Estátisticas do GitHUB: 
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe-infosec&show_icons=true&theme=tokyonight)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-infosec&layout=compact&theme=tokyonight)
+
+## 📫 Entre em contato!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipejesusandrade362@gmail.com)  
+
+🚀 **" Sempre buscando evoluir na área da tecnologia"** 
+

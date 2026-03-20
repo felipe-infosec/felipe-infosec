@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou **Felipe Andrade**.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&width=380&height=28&lines=Desenvolvedor+em+Formação;Interessado+em+Cybersecurity;Evolvuindo+no+Mundo+da+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&width=380&height=28&lines=Desenvolvedor+em+Formação;Interessado+em+Cybersecurity;Evoluindo+no+Mundo+da+Tecnologia" />
 </div>
  
 ## 🚀 Sobre mim: 

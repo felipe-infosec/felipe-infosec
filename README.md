@@ -77,13 +77,5 @@
   <br/>
   <img src="https://streak-stats.demolab.com/?user=felipe-infosec&theme=cobalt&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF&background=193549" alt="GitHub Streak" />
   <br/>
-  <br/>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </div>
-
-<br/>
-
-## 📫 Entre em contato!
- 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipejesusandrade362@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-andrade-671876375/)

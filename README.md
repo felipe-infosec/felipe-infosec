@@ -29,9 +29,7 @@
 </p>
   
 ## 📊 Estátisticas do GitHUB: 
-<img src="https://github-readme-stats.vercel.app/api?username=felipe-infosec&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="felipe-infosec's GitHub Stats" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe-infosec&show_icons=true&theme=cobalt&icon_color=00F5FF&title_color=00F5FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-infosec&layout=compact&theme=cobalt&title_color=00F5FF)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felipe-infosec&theme=cobalt&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF&background=193549)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>

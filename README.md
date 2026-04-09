@@ -9,7 +9,6 @@
 - 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 💻 Aprendendo Python 
 - 🔐 Explorando Cybersecurity
-- 📚 Cursando Gestão de Projetos em TI
 - 🖥️ Entusiasmado com Desenvolvimento Full-Stack
 
 ## 💻 Habilidades Tecnológicas:
